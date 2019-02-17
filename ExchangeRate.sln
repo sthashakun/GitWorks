@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeRate", "ExchangeRate\ExchangeRate.csproj", "{04F295CA-F212-4CCD-8FE0-F4C3F3F561D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		staging|Any CPU = staging|Any CPU
+		UAT|Any CPU = UAT|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04F295CA-F212-4CCD-8FE0-F4C3F3F561D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04F295CA-F212-4CCD-8FE0-F4C3F3F561D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04F295CA-F212-4CCD-8FE0-F4C3F3F561D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04F295CA-F212-4CCD-8FE0-F4C3F3F561D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04F295CA-F212-4CCD-8FE0-F4C3F3F561D5}.staging|Any CPU.ActiveCfg = staging|Any CPU
+		{04F295CA-F212-4CCD-8FE0-F4C3F3F561D5}.staging|Any CPU.Build.0 = staging|Any CPU
+		{04F295CA-F212-4CCD-8FE0-F4C3F3F561D5}.UAT|Any CPU.ActiveCfg = UAT|Any CPU
+		{04F295CA-F212-4CCD-8FE0-F4C3F3F561D5}.UAT|Any CPU.Build.0 = UAT|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
